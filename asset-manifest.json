@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WiseMissteps/static/css/main.9cee5268.css",
+    "main.js": "/WiseMissteps/static/js/main.c5cf4e36.js",
+    "static/media/pexels-anni-roenkae-3109793.jpg": "/WiseMissteps/static/media/pexels-anni-roenkae-3109793.e9ec22a54fd9341116b8.jpg",
+    "static/media/pexels-dom-j-310452.jpg": "/WiseMissteps/static/media/pexels-dom-j-310452.926f9621780b1bda4f18.jpg",
+    "static/media/pexels-bruno-thethe-1910225.jpg": "/WiseMissteps/static/media/pexels-bruno-thethe-1910225.2f6be7da10686c74d704.jpg",
+    "static/media/pexels-dids-3527786.jpg": "/WiseMissteps/static/media/pexels-dids-3527786.defd69b7c294fa802de3.jpg",
+    "static/media/pexels-dids-2911527.jpg": "/WiseMissteps/static/media/pexels-dids-2911527.6382baece9f812d61236.jpg",
+    "static/media/pexels-anni-roenkae-2832432.jpg": "/WiseMissteps/static/media/pexels-anni-roenkae-2832432.0adb190fff958ae957ca.jpg",
+    "static/media/pexels-tom-swinnen-2249961.jpg": "/WiseMissteps/static/media/pexels-tom-swinnen-2249961.cc2857348e7f25b41f55.jpg",
+    "static/media/pexels-dids-3107143.jpg": "/WiseMissteps/static/media/pexels-dids-3107143.db6f1d8e5d4dab07efad.jpg",
+    "static/media/pexels-madison-inouye-1831234.jpg": "/WiseMissteps/static/media/pexels-madison-inouye-1831234.5d968d1704ca8a00fc35.jpg",
+    "static/media/React_Hero1.jpg": "/WiseMissteps/static/media/React_Hero1.f078bc8d5f70d75d2008.jpg",
+    "index.html": "/WiseMissteps/index.html",
+    "main.9cee5268.css.map": "/WiseMissteps/static/css/main.9cee5268.css.map",
+    "main.c5cf4e36.js.map": "/WiseMissteps/static/js/main.c5cf4e36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cee5268.css",
+    "static/js/main.c5cf4e36.js"
+  ]
+}
