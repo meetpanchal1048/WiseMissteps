@@ -1,0 +1,122 @@
+.Abt-title{
+    font-family: 'PT Sans', sans-serif;
+}
+.Abt-linee{
+    display: flex;
+    width: 5%;
+    margin-left: 47.5%;
+    margin-bottom: 10%;
+    border-bottom: 1px solid black;
+}
+.Abt-section-line{
+    display: flex;
+    width: 100%;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid black;
+}
+
+.Wise-Abt{
+    font-family: 'PT Sans', sans-serif;
+}
+
+.Abt-Contents{
+    padding: 0px 60px;
+    font-size: 30px;
+}
+
+.Abt-Content{
+    text-decoration: none;
+    color: black;
+    margin: 0 25px;
+    margin-bottom: 3%;
+}
+
+.footer-bottom{
+    display: flex;
+    flex-direction: row;
+}
+
+.footer-linee{
+    display: flex;
+    width: 100%;
+    margin-top: 20%;
+    border-bottom: 1px solid black;
+}
+
+.footer-logo a{
+    font-size: 40px !important;
+    color: black;
+    text-decoration: none;
+    margin: 10px 0 0 20px
+}
+
+.footer-logo p{
+    text-align: center;
+    font-size: 12px !important;
+    margin-left: 17px;
+    color: black;
+    text-decoration: none;
+}
+
+.footer-list a{
+    color: rgba(0, 0, 0, 0.604);
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 20px !important;
+    margin-left: 7%;
+    transition: 0.5s;
+}
+
+.footer-list a:hover{
+    color: rgb(0, 0, 0);
+    transition: 0.5s;
+}
+
+.footer-list {
+    margin-left: 60%;
+    margin-top: 20px;
+}
+
+
+@media screen and (max-width:600px){
+    .footer-bottom{
+        display: flex;
+        flex-direction: column;
+    }
+    .footer-logo{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .footer-logo a{
+        text-align: center;
+        font-size: 30px !important;
+        margin: 0;
+    }
+    .footer-logo p{
+        font-size: 10px !important;
+        margin-left: 0px;
+    }
+    .footer-list a{
+        margin: 0;
+        
+    }
+    .footer-list {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin: 0;
+    }
+
+    .Abt-Contents{
+        padding: 0px;
+        font-size: 20px;
+    }
+    
+    .Abt-Content{
+        text-align: justify;
+        margin: 0px;
+        margin-bottom: 10%;
+    }
+}

@@ -1,0 +1,53 @@
+.La-title{
+    font-family: 'PT Sans', sans-serif;
+}
+
+.wise-latest-article{
+    margin-top: 10%;
+}
+
+.La-linee{
+    display: flex;
+    width: 13%;
+    margin-left: 43.5%;
+    margin-bottom: 10%;
+    border-bottom: 1px solid black;
+}
+
+.card{
+    --bs-card-border-width: none;
+}
+
+.card-body{
+    margin-left: 10%;
+}
+
+
+.row{
+    background-color: #c3c3c3 !important;
+}
+
+.La-section-line{
+    display: flex;
+    width: 100%;
+    margin-top: -10px;
+    margin-bottom: 20px;
+    border-bottom: 4px solid black;
+}
+
+@media screen and (max-width:600px){
+
+    .card-body{
+        margin-left: 0;
+        text-align: center;
+        /* height: 100px !important; */
+    }
+
+    .La-section-line{
+        margin-top: 10px;
+    }
+    
+    .La-p{
+        font-size: 0;
+    }
+}

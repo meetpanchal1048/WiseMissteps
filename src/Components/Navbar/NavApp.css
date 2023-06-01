@@ -1,0 +1,10 @@
+.Nav-line{
+    display: flex;
+    width: 95%;
+    margin-left: 30px;
+    border-bottom: 1px solid black;
+}
+
+.navbar{
+    background-color: transparent !important;
+}

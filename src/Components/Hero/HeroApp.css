@@ -1,0 +1,7 @@
+@media screen and (max-width:600px){
+
+    .hero-img img{
+        width: 100% !important;
+    }
+    
+}
